@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/zimdevlabs/zimdevelopers.com">
-   ![Logo Banner](https://github.com/zimdevlabs/.github/blob/master/profile/banner.png)
+   <img src="https://github.com/zimdevlabs/.github/blob/main/profile/banner.png" alt="Logo">
   </a>
 
   <h3 align="center">Zim Developers Labs.</h3>
